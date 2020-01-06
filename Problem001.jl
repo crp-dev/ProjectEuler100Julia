@@ -1,3 +1,9 @@
+"""
+    multiplesOf3and5(number)
+
+Finds the sum of all the multiples of 3 and 5 below the provided
+parameter value number
+"""
 function multiplesOf3and5(number)
     j = 0
     for i = 1:(number-1)

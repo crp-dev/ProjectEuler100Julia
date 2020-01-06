@@ -1,3 +1,9 @@
+"""
+    fiboEvenSum(n)
+
+Finds the sum of all even-valued terms in the Fibonacci sequence
+below the nth term of the sequence
+"""
 function fiboEvenSum(n)
     j = 1
     k = 0
